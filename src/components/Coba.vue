@@ -36,7 +36,8 @@ onMounted(() => {
 
 <template>
   <div class="flex items-center justify-center min-h-screen">
-    <div class="inline-block relative text-6xl font-bold text-blue-50">
+    <div class="inline-block relative
+      text-5xl md:text-6xl font-bold text-blue-50">
       <span class="line absolute left-0 top-1/2 -translate-y-1/2
         h-1 w-full bg-blue-50 origin-center"></span>
       <span class="letters inline-block">Coming</span>
